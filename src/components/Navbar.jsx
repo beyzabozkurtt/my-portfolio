@@ -44,7 +44,7 @@ export default function Navbar() {
       {/* Sağ Alan (CV + Dil Butonu) */}
       <div className="hidden md:flex items-center gap-4 lg:gap-6 relative flex-shrink-0">
         <a
-          href="/FatmaBeyzaBozkurt_CV.pdf"
+          href="/FatmaBeyzaBozkurt_Cv.pdf"
           download
           className="px-3 py-1.5 lg:px-4 lg:py-2 border border-gray-300 rounded-md text-xs lg:text-sm text-gray-800 hover:bg-gray-100 transition-colors whitespace-nowrap"
         >

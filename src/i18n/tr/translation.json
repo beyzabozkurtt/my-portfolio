@@ -1,0 +1,72 @@
+{
+  "navbar": {
+    "home": "Anasayfa",
+    "about": "Hakkımda",
+    "projects": "Projelerim",
+    "contact": "İletişim" ,
+    "downloadCv": "CV İndir"
+  },
+  "home": {
+    "title": "Full Stack Geliştirici",
+"subtitle": "Merhaba, ben <strong>{{name}}</strong>. Web, mobil ve backend teknolojileriyle; ölçeklenebilir, kullanıcı merkezli çözümler geliştiriyor, ekiplerle iş birliği içinde kaliteli yazılım üretmeyi hedefliyorum."  },
+
+ "about": {
+  "title": "Hakkımda",
+  "description": "Full-stack geliştirme konusunda uygulamalı deneyime sahibim; özellikle React, React Native, Node.js, NestJS, Laravel ve MySQL gibi teknolojilerle çalışıyorum. İki TÜBİTAK destekli projede aktif rol alarak liderlik ve problem çözme becerilerimi geliştirdim. Yenilikçi, kullanıcı odaklı çözümler üretmeye ve ekip içinde etkili iş birliğiyle kaliteli yazılımlar geliştirmeye tutkuyla bağlıyım.",
+  "educationTitle": "Eğitim",
+  "bartinUniversity": "Bartın Üniversitesi",
+  "bartinDepartment": "Bilgisayar Teknolojisi ve Bilişim Sistemleri",
+  "istanbulUniversity": "İstanbul Üniversitesi",
+  "istanbulDepartment": "Grafik Tasarım",
+  "experienceTitle": "Deneyim",
+  "cakey": {
+    "title": "Full Stack Geliştirici – Cakey",
+    "date": "Kasım 2023 – Şubat 2024",
+    "text": "Cakey projesinde full-stack geliştirici olarak yer aldım. React.js, Node.js ve Firebase ile frontend ve backend geliştirmeleri yaptım; hata ayıklama ve kod incelemeleriyle projeye katkı sağladım."
+  },
+  "internship": {
+    "title": "Stajyer ",
+    "date": "Temmuz 2023 – Ağustos 2023",
+    "text": "Ulusal Staj Programı kapsamında gerçekleştirdiğim stajda, sisteme veri girişi yaparak Excel üzerinden raporlama görevlerini üstlendim."
+  }
+  },
+ "projects": {
+  "title": "Projelerim",
+  "swipeInstruction": "← Diğer görseller için sola/sağa kaydır →",
+  "project1": {
+    "title": "MasAI – Yapay Zekâ Destekli Masal Uygulaması",
+    "role": "Fullstack Geliştirici | TÜBİTAK 2209-A | 2025",
+    "description": "Çocukların kişiselleştirilmiş masallar ve görseller oluşturmasına yardımcı olan yapay zekâ destekli mobil uygulama. React Native, MongoDB, NestJS, Cloudinary ve Expo teknolojileriyle geliştirildi. Masal oluşturma akışı ve içerik kurgusu tamamen tarafımdan planlandı. Backend geliştirmenin tamamı tarafımdan yapıldı ve frontend ile başarıyla entegre edildi. OpenAI tabanlı görsel üretim özelliği uygulamaya entegre edildi."
+  },
+  "project2": {
+  "title": "EcoOil – Atık Yağ Geri Dönüşüm Uygulaması",
+  "role": "Proje Yürütücüsü & Fullstack Geliştirici | TÜBİTAK 2209-A | 2024",
+  "description": "Atık yağ toplanması için harita yoğunluğu, randevu oluşturma, adres kaydı ve kullanıcı yönetimi gibi temel özellikleri içeren mobil uygulama. React Native, Laravel, SQLite, Expo ve Google Maps API ile geliştirildi. Tüm CRUD işlemleri dahil olmak üzere uygulamanın tüm geliştirme süreci tarafımdan yürütüldü. TÜBİTAK destekli bu projede resmi yürütücü olarak görev aldım."
+},
+"project3": {
+    "title": "Güzellik Merkezi Yönetim Sistemi",
+    "role": "Fullstack Geliştirici | Geliştiriliyor | 2025–Günümüz",
+    "description": "Güzellik merkezlerinin randevu, envanter ve hizmet yönetimini yapabilmesi için geliştirilen multi-tenant yapılı bir web uygulamasıdır. MySQL ve Bootstrap ile oluşturulmuş, duyarlı bir yönetici paneli ve RESTful API'ler içerir."
+  },
+  "project4": {
+  "title": "Gerçek Zamanlı Mesajlaşma Uygulaması",
+  "role": "Fullstack Geliştirici | 2023",
+  "description": "Gerçek zamanlı mesajlaşma, kullanıcı doğrulama ve duyarlı tasarıma sahip canlı sohbet web uygulaması. ReactJS ve Firebase ile hem arayüz, hem backend hem de senkronizasyon altyapısı geliştirildi."
+}
+
+
+},
+
+   "contact": {
+    "title": "Benimle İletişime Geç",
+    "description": "Her türlü proje, iş birliği veya öneri için ulaşabilirsiniz."
+  },
+  "footer": {
+  "backToTop": "Başa Dön"
+}
+}
+
+
+
+
+

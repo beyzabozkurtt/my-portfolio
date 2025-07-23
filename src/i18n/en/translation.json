@@ -1,0 +1,73 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact",
+    "downloadCv": "Download CV"
+  },
+  "home": {
+    "title": "Full Stack Developer",
+    "subtitle": "Hi, I’m <strong>{{name}}</strong>.  I develop scalable, user-centered solutions using web, mobile, and backend technologies, and aim to produce high-quality software through effective collaboration."
+  },
+   "about": {
+  "title": "About Me",
+  "description":  "Full-stack developer with hands-on experience in technologies like React, React Native, Node.js, NestJS, Laravel, and MySQL. I’ve led and contributed to two TÜBİTAK-funded projects, strengthening my leadership and problem-solving skills. Passionate about building innovative, user-centered solutions and delivering high-quality software through effective team collaboration.",
+  "educationTitle": "Education",
+  "bartinUniversity": "Bartın University",
+  "bartinDepartment": "Computer Technology and Information Systems",
+  "istanbulUniversity": "Istanbul University",
+  "istanbulDepartment": "Graphic Design",
+  "experienceTitle": "Experience",
+  "cakey": {
+    "title": "Full Stack Developer – Cakey",
+    "date": "November 2023 – February 2024",
+    "text": "Worked as a full-stack developer in the Cakey project. Developed both frontend and backend features using React.js, Node.js, and Firebase; contributed to the project through debugging and code reviews."
+  },
+  "internship": {
+    "title": "Intern",
+    "date": "July 2023 – August 2023",
+    "text": "Completed an internship as part of the National Internship Program, where I was responsible for data entry and reporting using Excel."
+  }
+  },
+  "projects": {
+  "title": "Projects",
+  "swipeInstruction": "← swipe to view more →",
+  "project1": {
+    "title": "MasAI – AI-Powered Storytelling App ",
+    "role": "Fullstack Developer | TÜBİTAK 2209-A | 2025",
+     "description": "AI-powered mobile app that helps children create personalized stories and illustrations. Built using React Native, MongoDB, NestJS, Cloudinary, and Expo. I planned the entire storytelling flow and content structure. I developed the entire backend and successfully integrated it with the frontend. Integrated OpenAI-powered image generation feature into the app."
+  },
+  "project2": {
+  "title": "EcoOil – Waste Oil Recycling App",
+  "role": "Project Manager & Fullstack Developer | TÜBİTAK 2209-A | 2024",
+  "description": "Mobile application for waste oil pickup featuring map heatmap integration, appointment scheduling, address registration, and full user management. Developed using React Native, Laravel, SQLite, Expo, and Google Maps API. I handled all development stages including full CRUD operations and led the project as the official TÜBİTAK-funded manager."
+},
+"project3": {
+    "title": "Beauty Center Management System",
+    "role": "Fullstack Developer | In Development | 2025–Present",
+    "description": "A multi-tenant web application designed for beauty centers to manage appointments, inventory, and services. Includes a responsive admin dashboard and RESTful APIs built with MySQL and Bootstrap."
+  },
+  "project4": {
+  "title": "Real-Time Messaging App",
+  "role": "Fullstack Developer | 2023",
+  "description": "Live chat web app with real-time messaging, user authentication, and responsive design. Built the frontend, backend, and message sync logic using ReactJS and Firebase."
+}
+
+},
+"contact": {
+    "title": "Get in Touch",
+    "description": "Feel free to reach out for collaborations or project ideas."
+  },
+  "footer": {
+  "backToTop": "Back to Top"
+}
+
+ 
+}
+
+
+
+
+
+
